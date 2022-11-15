@@ -1,5 +1,5 @@
 # 💫 About Me:
-Strong in design and integration with intuitive problem-solving skills. <br>Proficient in PYTHON, JAVASCRIPT, and SQL. <br>Passionate about implementing and launching new projects. <br>Ability to translate business requirements into technical solutions.
+Understanding of front-end technologies (JavaScript, HTML5, CSS3)<br> Coding and scripting skills in Python <br>Familiarity with web services and REST API <br>Understanding of ORM libraries, databases, and SQL <br>Effective communication skills <br>Interpersonal and teamwork skills
 
 
 ## 🌐 Socials:
