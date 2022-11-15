@@ -14,9 +14,9 @@
 
 
 # 📊 GitHub Stats:
-<center>![](https://github-readme-stats.vercel.app/api?username=mohammed-shabeer&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-shabeer&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-shabeer&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</center>
+<center>![](https://github-readme-stats.vercel.app/api?username=mohammed-shabeer&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/></center>
+<center>![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-shabeer&theme=midnight-purple&hide_border=false)<br/></center>
+<center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-shabeer&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</center>
 
 
 
